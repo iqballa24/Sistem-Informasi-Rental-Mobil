@@ -1,4 +1,4 @@
-# Sistem-Informasi-Rental-Mobil
+# Sistem Informasi Rental Mobil
 Tugas besar Pemrograman Web 1
 
 ### Teknologi yang digunakan
